@@ -1,4 +1,4 @@
-# CSYE_Poland
+# CSYE_Poland References
 List of CSYE testimonies of speakers from (Central) Poland
 
 Citation: 
