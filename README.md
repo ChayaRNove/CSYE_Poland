@@ -1,6 +1,13 @@
 # CSYE_Poland
 List of CSYE testimonies of speakers from (Central) Poland
 
+Citation: 
+USC Shoah Foundation Visual History Archive. USC Shoah Foundation. 
+&
+Bleaman, Isaac L., and Chaya R. Nove. In press. The Corpus of Spoken Yiddish in Europe: Goals, methods, and applications. Language Documentation & Conservation.
+
+
+
 | Last Name    | Code  | Gender | Birth Year | Raised              | Country      | Interview Country | Interview Year | Files                                   |
 |--------------|-------|--------|------------|---------------------|--------------|-------------------|----------------|-----------------------------------------|
 | Goldbaum     | 27657 | F      | 1905       | Warsaw              | Poland       | Argentina         | 1997           | Mala_Goldbaum_Tape1<br>Mala_Goldbaum_Tape2     |
